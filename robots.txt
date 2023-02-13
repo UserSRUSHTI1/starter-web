@@ -3,6 +3,10 @@
 User-agent: *
 gfhjgdsjfgygf
 
+<<<<<<< HEAD
 hgjhgfjtjfhcx
 
  hkfgyjutdfyutuay
+=======
+hjddgfyurtyrytsf
+>>>>>>> d096586 (gfuydrter76d)
