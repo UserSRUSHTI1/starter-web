@@ -13,7 +13,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 <<<<<<< HEAD
 This is a simple web project, deployment can be on any web server or even local file system.
-
+fgjdyj
 =======
 >>>>>>> de9fe905949008e2bfe146ef54dc996cfa38ebbd
 ## How To Contribute
